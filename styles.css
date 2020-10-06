@@ -1,0 +1,20 @@
+button{
+    margin: 5px;
+}
+
+article{
+    background-color: #fcf8e3;
+    color: darkred;
+}
+
+
+.btn-lb{
+    background-color: rgb(113, 203, 233);
+    color: white;
+}
+
+.badge-pill{
+    border-radius: 50%;
+    font-size: small;
+}
+
